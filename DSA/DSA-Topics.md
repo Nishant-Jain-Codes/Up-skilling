@@ -3,13 +3,13 @@
 Reference syllabus. The practice list is [[DSA-Index]] (Blind 75); this is the topic order to learn the theory behind it.
 
 ## Topics
-- [ ] 1. Introduction to C++
-- [ ] 2. Loops and pattern printing
+- [x] 1. Introduction to C++
+- [x] 2. Loops and pattern printing
 - [ ] 3. Arrays / 2D arrays
 - [ ] 4. Strings
-- [ ] 5. Sorting and searching
-- [ ] 6. Pointers / pass by value, reference & address
-- [ ] 7. Time and space complexity
+- [x] 5. Sorting and searching
+- [x] 6. Pointers / pass by value, reference & address
+- [x] 7. Time and space complexity
 - [ ] 8. Sets and maps
 - [ ] 9. Prefix sums / sliding window / contribution
 - [ ] 10. Bit manipulation
