@@ -10,7 +10,7 @@ Also see [[DSA-Topics]] for the topic-wise C++ roadmap and resources.
 3. [[Two Sum]]
 4. [[Group Anagrams]]
 5. [[Top K Frequent Elements]]
-6. [[Encode and Decode Strings]] ★
+6. [[Encode and Decode Strings]] 
 7. [[Product of Array Except Self]]
 8. [[Longest Consecutive Sequence]]
 
