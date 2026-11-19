@@ -2,7 +2,7 @@
 
 Order follows the NeetCode.io Blind 75 roadmap. Note per problem: pattern, approach, complexity, mistake ([[Problem-Template]]).
 ★ = LeetCode premium (free on NeetCode.io).
-Also see [[DSA-Topics]] for the topic-wise C++ roadmap and resources.
+Also see [[DSA-Topics]] for the topic-wise C++ roadmap and resources, and [[Contests]] for the LeetCode weekly and biweekly contests.
 
 ## Arrays & Hashing
 1. [[Contains Duplicate]]
